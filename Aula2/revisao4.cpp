@@ -39,4 +39,4 @@ int main() {
     cin >> continua;
   } // fim while
 }
-
+ 

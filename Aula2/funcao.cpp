@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std; 
 
 // avisando ao compiador que a funcao existe
 void media(float nota1, float nota2);

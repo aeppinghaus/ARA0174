@@ -1,7 +1,7 @@
 
 #include <iostream>
 using namespace std;
-
+ 
 //
 // Ler duas notas, calcular a media e exibir:
 // reprovado para media inferior a 5
